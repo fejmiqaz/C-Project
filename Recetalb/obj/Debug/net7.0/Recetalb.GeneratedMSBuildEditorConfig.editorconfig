@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Recetalb
+build_property.RootNamespace = Recetalb
+build_property.ProjectDir = C:\Users\User\Desktop\C#\Recetalb\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\C#\Recetalb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/User/Desktop/C\#/Recetalb/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/C\#/Recetalb/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/C\#/Recetalb/Pages/Receta.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjZXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/C\#/Recetalb/Pages/RecetaAmerike.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjZXRhQW1lcmlrZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/C\#/Recetalb/Pages/RecetaAzi.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjZXRhQXppLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/C\#/Recetalb/Pages/RecetaBallkani.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjZXRhQmFsbGthbmkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/C\#/Recetalb/Pages/RecetaEurope.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjZXRhRXVyb3BlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/C\#/Recetalb/Shared/FaqePerReceta.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZhcWVQZXJSZWNldGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/C\#/Recetalb/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/C\#/Recetalb/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ajehswrvgr
+
+[C:/Users/User/Desktop/C\#/Recetalb/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-w7aanp9wls
+
+[C:/Users/User/Desktop/C\#/Recetalb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/C\#/Recetalb/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,23 @@
+﻿@page "/receta"
+@using Recetalb.Data;
+
+
+<PageTitle> Receta </PageTitle> 
+<h1>Receta</h1>
+
+<p role="status">Redukto receta: @shikoReceta</p>
+<p role="status">Shto receta: @shikoReceta2</p>
+
+<button class="btn-toolbar" @onclick="shikoRecetaTani">Redukto Receta</button>
+<button class="btn-toolbar" @onclick="shikoRecetaTani2">Shto Receta</button>
+
+@code {
+    public int shikoReceta;
+    public void shikoRecetaTani() => shikoReceta--;
+
+    public int shikoReceta2;
+    public void shikoRecetaTani2() => shikoReceta2++;
+
+    
+
+}

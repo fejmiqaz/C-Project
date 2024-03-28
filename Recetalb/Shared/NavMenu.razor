@@ -1,0 +1,65 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">RECETALB</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Faqja Kryesore
+            </NavLink>
+        </div>
+        
+        
+       
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="receta">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Shiko Receta
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="recetaeurope">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Europe
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="recetaballkani">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Ballkan
+            </NavLink>
+        </div>
+
+
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="recetaamerike">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Amerike
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="recetaazi">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Azi
+            </NavLink>
+        </div>
+
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

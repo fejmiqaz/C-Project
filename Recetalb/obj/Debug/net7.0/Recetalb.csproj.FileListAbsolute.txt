@@ -1,0 +1,157 @@
+C:\Users\User\Desktop\C# Course 2023\Recetalb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb\bin\Debug\net7.0\Recetalb.staticwebassets.runtime.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb\bin\Debug\net7.0\Recetalb.exe
+C:\Users\User\Desktop\C# Course 2023\Recetalb\bin\Debug\net7.0\Recetalb.deps.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb\bin\Debug\net7.0\Recetalb.runtimeconfig.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb\bin\Debug\net7.0\Recetalb.dll
+C:\Users\User\Desktop\C# Course 2023\Recetalb\bin\Debug\net7.0\Recetalb.pdb
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\Recetalb.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\Recetalb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\Recetalb.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\Recetalb.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\Recetalb.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\Recetalb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\Recetalb.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\Recetalb.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.Recetalb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.build.Recetalb.props
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Recetalb.props
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Recetalb.props
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\scopedcss\bundle\Recetalb.styles.css
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\scopedcss\projectbundle\Recetalb.bundle.scp.css
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\Recetalb.dll
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\refint\Recetalb.dll
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\Recetalb.pdb
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\Recetalb.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Course 2023\Recetalb\obj\Debug\net7.0\ref\Recetalb.dll
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\bin\Debug\net7.0\Recetalb.staticwebassets.runtime.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\bin\Debug\net7.0\Recetalb.exe
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\bin\Debug\net7.0\Recetalb.deps.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\bin\Debug\net7.0\Recetalb.runtimeconfig.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\bin\Debug\net7.0\Recetalb.dll
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\bin\Debug\net7.0\Recetalb.pdb
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\Recetalb.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\Recetalb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\Recetalb.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\Recetalb.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\Recetalb.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\Recetalb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\Recetalb.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\Recetalb.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\staticwebassets\msbuild.Recetalb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\staticwebassets\msbuild.build.Recetalb.props
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Recetalb.props
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Recetalb.props
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\scopedcss\bundle\Recetalb.styles.css
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\scopedcss\projectbundle\Recetalb.bundle.scp.css
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\Recetalb.dll
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\refint\Recetalb.dll
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\Recetalb.pdb
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\Recetalb.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Course 2023\Recetalb1\obj\Debug\net7.0\ref\Recetalb.dll
+C:\Users\User\Desktop\Projekti\Recetalb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Desktop\Projekti\Recetalb\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Desktop\Projekti\Recetalb\bin\Debug\net7.0\Recetalb.staticwebassets.runtime.json
+C:\Users\User\Desktop\Projekti\Recetalb\bin\Debug\net7.0\Recetalb.exe
+C:\Users\User\Desktop\Projekti\Recetalb\bin\Debug\net7.0\Recetalb.deps.json
+C:\Users\User\Desktop\Projekti\Recetalb\bin\Debug\net7.0\Recetalb.runtimeconfig.json
+C:\Users\User\Desktop\Projekti\Recetalb\bin\Debug\net7.0\Recetalb.dll
+C:\Users\User\Desktop\Projekti\Recetalb\bin\Debug\net7.0\Recetalb.pdb
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\Recetalb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\Recetalb.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\Recetalb.AssemblyInfo.cs
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\Recetalb.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\Recetalb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\Recetalb.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\Recetalb.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.Recetalb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.build.Recetalb.props
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Recetalb.props
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Recetalb.props
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\scopedcss\bundle\Recetalb.styles.css
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\scopedcss\projectbundle\Recetalb.bundle.scp.css
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\Recetalb.dll
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\refint\Recetalb.dll
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\Recetalb.pdb
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\Recetalb.genruntimeconfig.cache
+C:\Users\User\Desktop\Projekti\Recetalb\obj\Debug\net7.0\ref\Recetalb.dll
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\bin\Debug\net7.0\Recetalb.staticwebassets.runtime.json
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\bin\Debug\net7.0\Recetalb.exe
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\bin\Debug\net7.0\Recetalb.deps.json
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\bin\Debug\net7.0\Recetalb.runtimeconfig.json
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\bin\Debug\net7.0\Recetalb.dll
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\bin\Debug\net7.0\Recetalb.pdb
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\Recetalb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\Recetalb.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\Recetalb.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\Recetalb.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\Recetalb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\Recetalb.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\Recetalb.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.Recetalb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.build.Recetalb.props
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Recetalb.props
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Recetalb.props
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\scopedcss\bundle\Recetalb.styles.css
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\scopedcss\projectbundle\Recetalb.bundle.scp.css
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\Recetalb.dll
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\refint\Recetalb.dll
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\Recetalb.pdb
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\Recetalb.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Kursi Projekt 2023\Recetalb\obj\Debug\net7.0\ref\Recetalb.dll
+C:\Users\User\Desktop\C#\Recetalb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Desktop\C#\Recetalb\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Desktop\C#\Recetalb\bin\Debug\net7.0\Recetalb.staticwebassets.runtime.json
+C:\Users\User\Desktop\C#\Recetalb\bin\Debug\net7.0\Recetalb.exe
+C:\Users\User\Desktop\C#\Recetalb\bin\Debug\net7.0\Recetalb.deps.json
+C:\Users\User\Desktop\C#\Recetalb\bin\Debug\net7.0\Recetalb.runtimeconfig.json
+C:\Users\User\Desktop\C#\Recetalb\bin\Debug\net7.0\Recetalb.dll
+C:\Users\User\Desktop\C#\Recetalb\bin\Debug\net7.0\Recetalb.pdb
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\Recetalb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\Recetalb.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\Recetalb.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\Recetalb.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\Recetalb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\Recetalb.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\Recetalb.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.Recetalb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.build.Recetalb.props
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Recetalb.props
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Recetalb.props
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\scopedcss\bundle\Recetalb.styles.css
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\scopedcss\projectbundle\Recetalb.bundle.scp.css
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\Recetalb.dll
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\refint\Recetalb.dll
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\Recetalb.pdb
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\Recetalb.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Recetalb\obj\Debug\net7.0\ref\Recetalb.dll

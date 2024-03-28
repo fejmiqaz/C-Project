@@ -1,0 +1,46 @@
+﻿@page "/recetaeurope"
+@using Recetalb.Data
+@inject NavigationManager NavigationManager
+
+
+<PageTitle>Receta Europe</PageTitle>
+<h2>Në këtë faqe do të mund të gjeni receta nga vende të ndryshme të Europës</h2>
+
+<br><h2><u><b>Pizza</b></u></h2>
+<img src="./foto/pizza1.png" alt="Pizza"/>
+
+<h3>Përmbledhje e përbërësve:</h3>
+<ul>
+	<li>Brumi i picës</li>
+	<li>Sos domate</li>
+	<li>Djathë mozzarella</li>
+	<li>Mbushje sipas dëshirës(psh. pepperoni, kërpudha etj.)</li>
+	<li>Vaj ulliri</li>
+	<li>Gjethe basil të freskëta</li>
+	<li>Kripë dhe piper</li>
+</ul>
+<br><h3>Udhëzime se si përgatitet:</h3>
+<ol>
+	<li>Ngrohi furrën tënde në temperaturën më të lartë (zakonisht rreth 245°C).</li>
+	<li>Zgjidh masën e tiganit të pizzës sipas preferencës tuaj.</li>
+	<li>Vendos masën e tiganit në një siperfaqe të bardhë të lyer me miell dhe hul.</li>
+	<li>Shpërndaj një shtresë sos domate me një rrathë të vogël në periferi të testës.</li>
+	<li>Hedh sasi të mjaftueshme djathi mozzarella mbi salsën.</li>
+	<li>Shto mbushjen tënde të preferuar.</li>
+	<li>Krip vaj ulliri mbi sipërfaqen dhe vihni kripën dhe piperin sipas shijes suaj.</li>
+	<li>Përgatit pizzën në furrën e ngrohur për rreth 10-15 minuta ose deri sa perimet të skuqen dhe djathi të shkrihet dhe të ketë një sipërfaqe të lehtësisht të verdhë.</li>
+	<li>Nxirr nga furra, dekoro me gjethe bazë të freskëta, prerë në feta dhe shërbeje të ngrohtë.</li>
+</ol>
+<br><h3>Përshkrim i ushqimit:</h3>
+<br><p>Pizza, një veprë italiane, është një krijesë e shijshme me brumë të hollë dhe të krustosur, të mbuluar me një sos domate shijshëm, djathë mozzarella të shkrirë, dhe një varietet të mbushjeve të mrekullueshme. Është një klasik i dashur i shijuar në të gjithë botën për mundësitë e pakufizuara të personalizimit dhe shijen e pashmangshme.</p>
+
+<button class="e-link" @onclick="RedirectExternal">Shiko më shumë</button>
+
+
+@code {
+
+	private void RedirectExternal()
+	{
+		NavigationManager.NavigateTo("https://en.wikipedia.org/wiki/Pizza");
+	}
+}

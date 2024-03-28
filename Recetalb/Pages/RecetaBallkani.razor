@@ -1,0 +1,33 @@
+﻿@page "/recetaballkani"
+@using Recetalb.Data
+@inject NavigationManager NavigationManager
+
+<PageTitle>Receta Ballkani</PageTitle>
+<h1>Në këtë faqe do të mund të gjeni receta nga vende të ndryshme të Ballkanit</h1>
+
+<h2><b><u>Cevapi (gj. shqipe "Qebapa")</u></b></h2>
+<img src="C:\Users\User\Desktop\C# Kursi Projekt 2023\Pictures\Cevapi1.jpg" alt="Cevapi1">
+<h3>Receta e gatimit:</h3>
+<ol>
+	<h4><li> Përziej mish të grirë lope apo qengji.</li>
+	<li>Shtoni kripë, piper, dhe hudhër të grirë.</li>
+	<li>Formoni salçiçe të vogla.</li>
+	<li>Piqeni derisa të skuqen.</li></h4>
+</ol>
+
+<br><h3>Përshkrim i ushqimit:</h3>
+<p><h4><br>Ćevapi, një pjatë e dashur e Ballkanit, përbëhet nga salçiçe të skuqura të 
+	bëra nga një kombinim i mishit të grirë, shpesh një përzierje e mishit të dheut dhe dhiut, 
+	të bashkuar me një shumëllojshmëri të përzierjesh të shijshme. Këto sosisa të shijshme zakonisht 
+	shërbehen me lakror të butë dhe bukë të ëmbël dhe shoqërohen me garnitura tradicionale si qepë dhe ajvar, 
+	një kondiment i ëmbël i bazuar në piper të kuq. Ky pjatë kaplon trashëgiminë kulinarie të pasur të Ballkanit 
+	dhe është një harmoni e mrekullueshme e shijeve dhe teksturave.</h4></p>
+
+<button class="btn-toolbar" @onclick="RedirectExternal">Shiko më shumë</button>
+
+@code {
+	private void RedirectExternal()
+	{
+		NavigationManager.NavigateTo("https://en.wikipedia.org/wiki/%C4%86evapi");
+	}
+}
