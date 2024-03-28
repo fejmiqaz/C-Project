@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ASP.NET Core 6.0 API.props" />
-</Project>
